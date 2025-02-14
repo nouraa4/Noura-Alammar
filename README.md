@@ -4,7 +4,7 @@
 
 Here are some of the projects I have contributed to:  
 
-- [**MITHAQ**](https://github.com/Alhanouf23/MITHAQ.git) – A mobile application designed to facilitate contract and agreement management between parties, providing a secure and efficient way to create, sign, and store contracts.  
+- [**MITHAQ**](https://github.com/Alhanouf23/MITHAQ.git) – A project aims to enhance employee promotion and training development by integrating machine learning (ML), specifically the Random Forest (RF) model, to improve decision-making in HR management. By addressing inefficiencies and biases in traditional HR processes, the system ensures fair, transparent, and data-driven employee evaluations. It also introduces training recommendations for non-promoted employees to support their professional growth.
 - [**Breast Cancer Detection**](https://github.com/wasanalowayed/breast-cancer-detection) – A machine learning project for breast cancer detection using various classification models to analyze medical images and improve diagnostic accuracy.  
 - [**To-Do List**](https://github.com/wasanalowayed/To-do-list) – A task management mobile app built with React Native and Firebase, allowing users to organize their daily tasks with features like adding, deleting, and marking tasks as complete.  
 - [**Artist Destination Website**](https://github.com/DalalMJ01/Cs346-artist-destination-website1) – A web platform for artists and art enthusiasts to access courses in various art forms, including pottery, painting, and photography, with guidance from experienced artists.  

@@ -4,13 +4,13 @@
 
 Here are some of the projects I have contributed to:  
 
-- [**MITHAQ**](https://github.com/Alhanouf23/MITHAQ.git) – Worked on [mention your contribution, e.g., UI design, backend integration, etc.].  
-- [**Breast Cancer Detection**](https://github.com/wasanalowayed/breast-cancer-detection) – Contributed to [mention specific role, e.g., implementing ML models, data preprocessing].  
-- [**To-Do List**](https://github.com/wasanalowayed/To-do-list) – Collaborated on building a task management app using React Native and Firebase.  
-- [**Artist Destination Website**](https://github.com/DalalMJ01/Cs346-artist-destination-website1) – Helped develop a platform for artists to access courses and guidance sessions.  
-- [**Student Guide – CCIS IMAMU**](https://github.com/wasanalowayed/student-guide-CCIS-IMAMU) – Developed a web platform to assist CCIS students at Imam University.  
-- [**Simple Reliable File Transfer Protocol with UDP and Acknowledgments**](https://github.com/nouraa4/Simple-Reliable-File-Transfer-Protocol-with-UDP-and-Acknowledgments) – Implemented a protocol for reliable file transfer using UDP with acknowledgment handling.  
-- [**Flutter Project**](https://github.com/nouraa4/flutter-Project) – Built a mobile application using Flutter [mention app functionality if needed].  
+- [**MITHAQ**](https://github.com/Alhanouf23/MITHAQ.git) – A mobile application designed to facilitate contract and agreement management between parties, providing a secure and efficient way to create, sign, and store contracts.  
+- [**Breast Cancer Detection**](https://github.com/wasanalowayed/breast-cancer-detection) – A machine learning project for breast cancer detection using various classification models to analyze medical images and improve diagnostic accuracy.  
+- [**To-Do List**](https://github.com/wasanalowayed/To-do-list) – A task management mobile app built with React Native and Firebase, allowing users to organize their daily tasks with features like adding, deleting, and marking tasks as complete.  
+- [**Artist Destination Website**](https://github.com/DalalMJ01/Cs346-artist-destination-website1) – A web platform for artists and art enthusiasts to access courses in various art forms, including pottery, painting, and photography, with guidance from experienced artists.  
+- [**Student Guide – CCIS IMAMU**](https://github.com/wasanalowayed/student-guide-CCIS-IMAMU) – A website designed to assist students of the College of Computer and Information Sciences at Imam University by providing essential academic resources and guidance.  
+- [**Simple Reliable File Transfer Protocol with UDP and Acknowledgments**](https://github.com/nouraa4/Simple-Reliable-File-Transfer-Protocol-with-UDP-and-Acknowledgments) – An implementation of a reliable file transfer protocol using UDP, ensuring successful data transmission with acknowledgment mechanisms.  
+- [**Split Bills App (Flutter)**](https://github.com/nouraa4/flutter-Project) – A Flutter-based mobile application that helps users split expenses among friends, track payments, and manage shared costs easily.  
 
 Feel free to explore these projects! 🚀  
 

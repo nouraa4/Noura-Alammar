@@ -3,7 +3,7 @@
 ## 🚀 My Contributions  
 
 Here are some of the projects I have contributed to:  
-
+- [**AI LEAGUE**](https://github.com/nouraa4/AI_LEAGUE) – An AI-powered crowd management system that uses computer vision and YOLO to monitor crowd density in real-time and support Saudi Arabia’s smart city and World Cup 2034 preparations.
 - [**MITHAQ**](https://github.com/Alhanouf23/MITHAQ.git) – A machine learning-based system for enhancing employee promotion and training recommendations in HR management. 
 - [**Breast Cancer Detection**](https://github.com/wasanalowayed/breast-cancer-detection) – A machine learning project for breast cancer detection using various classification models to analyze medical images and improve diagnostic accuracy.  
 - [**To-Do List**](https://github.com/wasanalowayed/To-do-list) – A task management mobile app built with React Native and Firebase, allowing users to organize their daily tasks with features like adding, deleting, and marking tasks as complete.  
